@@ -19,8 +19,8 @@ revision_docente: "PENDIENTE"
 |---|---|
 | Fecha y horario de esta sesión | [2026-10-26; 09:00–12:00, 180 min] |
 | Nombre / alias del equipo | [Axis] |
-| Misión / plataforma | [M01 mini-sumo autónomo / M03 seguidor /M04 Tello Python / M05 AMR ROS 2] |
-| Objetivo verificable del robot (una frase) | [Acción + condiciones + éxito] |
+| Misión / plataforma | [M04 Tello Python] |
+| Objetivo verificable del robot (una frase) | [Acción + condiciones + éxito ] |
 | **Dōjō asignado — campus, edificio y sala/taller exactos** | **[Campus ___ / Edificio ___ / Sala o taller ___ / Nº de laboratorio ___]** |
 | Puesto o zona dentro del dōjō | [Mesa, banco, espacio de vuelo, pista, dohyō o estación] |
 | Horario / reserva confirmada | [Fechas y bloque horario; quien la autorizó] |
