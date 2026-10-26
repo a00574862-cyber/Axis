@@ -20,17 +20,17 @@ revision_docente: "PENDIENTE"
 | Fecha y horario de esta sesión | [2026-10-26; 09:00–12:00, 180 min] |
 | Nombre / alias del equipo | [Axis] |
 | Misión / plataforma | [M04 Tello Python] |
-| Objetivo verificable del robot (una frase) | [Acción + condiciones + éxito ] |
-| **Dōjō asignado — campus, edificio y sala/taller exactos** | **[Campus ___ / Edificio ___ / Sala o taller ___ / Nº de laboratorio ___]** |
-| Puesto o zona dentro del dōjō | [Mesa, banco, espacio de vuelo, pista, dohyō o estación] |
-| Horario / reserva confirmada | [Fechas y bloque horario; quien la autorizó] |
-| Responsable del espacio y contacto institucional | [Nombre/cargo y canal institucional, sin publicar teléfonos privados] |
-| Acceso, aforo y ajustes de accesibilidad | [Restricciones de ingreso, capacidad, adecuaciones necesarias] |
+| Objetivo verificable del robot (una frase) | [Control autonomo de estacion con vison artifical] |
+| **Dōjō asignado — campus, edificio y sala/taller exactos** | **[Campus León / Edificio CCI / Sala o taller Por definir / Nº de laboratorio Por definir]** |
+| Puesto o zona dentro del dōjō | [Salón de clase, por definir] |
+| Horario / reserva confirmada | [Horario de clase] |
+| Responsable del espacio y contacto institucional | [Camilo René Duque Becerra, Director de Carrera IMT; camilo.duque@tec.mx] |
+| Acceso, aforo y ajustes de accesibilidad | [Se requiere espacio asegurado y despejado para poder volar el dron] |
 | Salidas, botiquín, extintor y punto de reunión | [Ubicación real validada al llegar] |
 | Zonas segregadas por riesgo | [Vuelo / herramientas / tránsito AMR / ensayo de pista] |
 | Ubicación de materiales y resguardo nocturno | [Gabinete/estante/inventario; responsable] |
 | Plan de sustitución si falla el espacio | [Dōjō alternativo con autorización; no improvisar espacio de vuelo] |
-| Instructor o supervisor presente en la sesión | [@alias / nombre institucional] |
+| Instructor o supervisor presente en la sesión | [Camilo René Duque Becerra, Director de Carrera IMT] |
 
 > ⛔ **No se permite avanzar a pruebas físicas sin dōjō concreto y autorización del responsable.** No inventar salón, número de laboratorio ni recursos que no hayan sido confirmados.
 
