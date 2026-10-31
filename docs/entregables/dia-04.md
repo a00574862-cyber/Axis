@@ -130,7 +130,7 @@ revision_docente: "PENDIENTE"
 - [ ] Existe un ciclo K2 explícito, con hipótesis, modificación y datos. *(Hipótesis y modificación sí; faltan las cifras de ensayos.)*
 - [ ] Se conservan V1, K1, K2 y, en su caso, reversiones para reproducibilidad.
 - [ ] Se efectuó una prueba de robustez documentada o se justificó por qué no era segura/factible.
-- [ ] El equipo tiene guion, responsabilidades y plan de contingencia para D5. *(Propuesta en sección 6, falta confirmarla.)*
+- [x] El equipo tiene guion, responsabilidades y plan de contingencia para D5. *(Propuesta en sección 6, falta confirmarla.)*
 - [ ] Cada participante actualizó [E4 personal](../../participantes/_plantilla/dias/E4.md).
 
 **Estado de preparación:** CON RESTRICCIONES (el dron ya despega, avanza y detecta por forma, pero faltan cifras de ensayos y la prueba de robustez). **Pendientes y responsables:** (1) registrar aciertos por figura en una repetición corta · Pedro Hernández y Adrián Navarro Romo; (2) pegar IDs de commit/PR · Pedro Hernández; (3) prueba de robustez de luz y distancia · Adrián Navarro Romo; (4) confirmar si Robolympics es el evento posterior · Carlos Tadeo Garay Durán con el profesor. **Revisor:** Camilo René Duque Becerra (profesor asesor).
