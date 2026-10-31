@@ -23,9 +23,9 @@ revision_docente: "PENDIENTE"
 
 | Versión | Qué era (según lo observado en los vuelos) | Id de commit |
 |---|---|---|
-| V1 | Primer vuelo con `--fly`: el dron **solo despegaba**, no avanzaba | ⚠ PENDIENTE |
-| K1 | Primera mejora: el dron **ya avanzaba y la cámara detectaba**, pero el video salía con los **colores invertidos** (todos nos veíamos azules). Después se corrigió el orden de canales de color (`FRAME_ES_RGB`) y volvió a detectar | ⚠ PENDIENTE |
-| K2 | Segunda mejora: con color corregido, **solo detectaba bien el círculo**; se cambió a **detección por forma** y **ya funcionó bien** | ⚠ PENDIENTE |
+| V1 | Primer vuelo con `--fly`: el dron **solo despegaba**, no avanzaba | 1 |
+| K1 | Primera mejora: el dron **ya avanzaba y la cámara detectaba**, pero el video salía con los **colores invertidos** (todos nos veíamos azules). Después se corrigió el orden de canales de color (`FRAME_ES_RGB`) y volvió a detectar | 2 |
+| K2 | Segunda mejora: con color corregido, **solo detectaba bien el círculo**; se cambió a **detección por forma** y **ya funcionó bien** | 3 |
 
 > ⚠ Confirmar con el equipo que esta división V1/K1/K2 es la que quieren registrar.
 
